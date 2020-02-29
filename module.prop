@@ -1,0 +1,8 @@
+id=iptablesttlfix
+name=TTL fix
+version=v1
+versionCode=1
+author=izvyk
+description=Fixes TTL at 64 on boot.
+minMagisk=17000
+
